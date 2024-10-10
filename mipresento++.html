@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .flip-card {
+            background-color: transparent;
+            width: 800px;
+            height: 700px;
+            perspective: 1000px;
+        }
+        .flip-card-inner {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            text-align: center;
+            transition: transform 0.6s;
+            transform-style: preserve-3d;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+        .flip-card:hover .flip-card-inner {
+            transform: rotateY(180deg);
+        }
+        .flip-card-front, .flip-card-back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+        }
+        .flip-card-front {
+            background-color: #bbb;
+            color: black;
+        }
+        .flip-card-back {
+            background-color: #2980b9;
+            color: white;
+            transform: rotateY(180deg);
+        }
+    </style>
+</head>
+<body>
+
+<h1>Card di Enrico Fallace</h1>
+<h3>Passa il mouse sull'immagine:</h3>
+
+<div class="flip-card">
+    <div class="flip-card-inner">
+        <div class="flip-card-front">
+            <img src="enricoselfie.jpg" alt="Foto di Enrico Fallace" style="width:800px;height:700px;">
+        </div>
+        <div class="flip-card-back">
+            <h1>Enrico Fallace</h1>
+            <p>Nome e Cognome: Enrico Fallace</p>
+            <p>Età: 14 anni</p>
+            <p>Classe e Istituto: 2° CIT, Istituto Tecnico Informatico</p>
+            <p>Data di Nascita: 21 Novembre 2009</p>
+            <p>Luogo di Residenza: Moncalieri (TO)</p>
+            <h2>Chi sono</h2>
+            <p>Sono cresciuto a Moncalieri, una città ricca di storia e cultura. Una mia qualità distintiva è la curiosità.</p>
+            <h2>I miei interessi</h2>
+            <ul>
+                <li>Informatica: Appassionato grazie ai corsi scolastici.</li>
+                <li>Sport: Pratico judo, 2° in Italia.</li>
+                <li>Hobby: Motocross, per adrenalina e sfida.</li>
+            </ul>
+            <h2>Obiettivi</h2>
+            <p>A breve termine, migliorare nella programmazione. A lungo termine, lavorare nella tecnologia.</p>
+            <p>"La vera scoperta non consiste nel cercare nuove terre, ma nell'avere nuovi occhi." - Marcel Proust</p>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

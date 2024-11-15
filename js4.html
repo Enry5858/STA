@@ -33,8 +33,7 @@
 </head>
 <body>
 
-    <div class="btn-group">
-  <button class="button">Button</button>
+    
   
 </div>
 
@@ -48,12 +47,13 @@
     <label for="endHeight">Altezza punto di arrivo (in metri):</label>
     <input id="endHeight" type="number">
     <br>
-    <button onclick="calcolaDislivello()">Calcola Dislivello</button>
+    <div class="btn-group">
+        <button class="button">calcola dislivello</button>
     <p id="out1"></p>
    </div>
 
    <script>
-    function calcolaDislivello() {
+    function button {
         // Ottieni i valori delle altezze inserite
         let start = parseFloat(document.getElementById("startHeight").value);
         let pause = parseFloat(document.getElementById("pauseHeight").value);

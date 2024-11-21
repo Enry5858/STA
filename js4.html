@@ -48,12 +48,12 @@
     <input id="endHeight" type="number">
     <br>
     <div class="btn-group">
-        <button class="button">calcola dislivello</button>
+        <button class="button"onclick="button();">calcola dislivello</button>
     <p id="out1"></p>
    </div>
 
    <script>
-    function button () {
+    function button() {
         // Ottieni i valori delle altezze inserite
         let start = parseFloat(document.getElementById("startHeight").value);
         let pause = parseFloat(document.getElementById("pauseHeight").value);

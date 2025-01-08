@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Controllo Età</title>
+</head>
+<body>
+    <h1>LOGIN</h1>
+    <input type="number" id="eta" placeholder="Età">
+    <button onclick="controllaAge();">Verifica età</button>
+    <h3 id="output"></h3>
+    <script>
+        function controllaAge() {
+            let eta = parseInt(document.getElementById("eta").value);
+            if ( eta >= 18) {
+                document.getElementById("output").innerHTML = "entra nel sistema";
+            } else {
+                let differenza = 18-eta;
+                document.getElementById("output").innerHTML = "Per accedere al sistema attendi: " + differenza + " anni";
+            }
+        }
+    </script>
+</body>
+</html>

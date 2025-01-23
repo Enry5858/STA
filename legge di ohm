@@ -114,14 +114,14 @@ body {margin:0;font-family:Arial}
 
 <div class="topnav" id="myTopnav">
   <a href="#Legge di ohm" class="active">Legge di ohm</a>
-  <a href="#Biografia">Biografia</a>
+  <a href="biografia.htm">Biografia</a>
   <a href="#Mappa concettuale">Mappa concettuale</a>
-    <button class="dropbtn">Sitografia
+  <div class="Sitografia">
       <i class="fa fa-caret-down"></i>
     </button>
   </div>
    <div class="Sitografia">
-    <button class="dropbtn">Sitografia 
+    <button class="dropbtn">Sitografia
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="Sitografia-content">
@@ -135,8 +135,6 @@ body {margin:0;font-family:Arial}
        <a href="https://enry5858.github.io/STA/button.html">bottoni allert js</a>
     </div>
   </div>
-  <a href="#about">About</a>
-  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </div>
 
 <div style="padding-left:16px">

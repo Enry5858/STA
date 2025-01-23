@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+
+    <title> BIOGRAFIA - George Simon Ohm</title>
+</head>
+
+<body>
+    <h1>Biografia George Simon Ohm</h1>
+    
+    <p>Nome e Cognome: George Simon Ohm</p>
+    <p><Età: 14 anni></p>
+    <p>Classe e Istituto: 2° CIT, Istituto Tecnico Informatico</p>
+    <p>Data di Nascita: 21 Novembre 2009</p>
+    <p>Luogo di Residenza: Moncalieri (TO)</p>
+
+    <h2>Chi sono</h2>
+    <p>Sono cresciuto a Moncalieri, una città ricca di storia e cultura. Una mia qualità distintiva è la curiosità: mi piace esplorare nuovi argomenti e scoprire il mondo intorno a me.</p>
+
+    <h2>I miei interessi</h2>
+    <ul>
+        <li>Informatica: Mi sono appassionato all'informatica attraverso corsi scolastici.</li>
+        <li>Sport: Pratico judo, che mi insegna disciplina e rispetto. Sono 2° in Italia grazie alla mia squadra di judo.</li>
+        <li>Hobby: Faccio motocross nel tempo libero, un'attività che adoro per l'adrenalina e la sfida.</li>
+    </ul>
+
+    <h2>Competenze</h2>
+    <ul>
+        <li>Abilità informatiche: Ho imparato a programmare attraverso corsi scolastici.</li>
+        <li>Lingue: Parlo italiano e sto studiando inglese.</li>
+        <li>Leadership: Ho fatto da capitano nella mia squadra di judo.</li>
+    </ul>
+
+    <h2>Obiettivi</h2>
+    <p>A breve termine, voglio migliorare nella programmazione. A lungo termine, sogno di lavorare nel campo della tecnologia.</p>
+
+    <h2>Citazione ispiratrice</h2>
+
+        "La vera scoperta non consiste nel cercare nuove terre, ma nell'avere nuovi occhi." - Marcel Proust
+</br>
+    <h2>
+to Visivo</h2>
+    <img src="biografia ohm.jfif" alt="Foto in classe" width="300" height="300">
+</body>
+</html>

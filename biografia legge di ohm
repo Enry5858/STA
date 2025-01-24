@@ -9,37 +9,36 @@
     <h1>Biografia George Simon Ohm</h1>
     
     <p>Nome e Cognome: George Simon Ohm</p>
-    <p><Età: 14 anni></p>
-    <p>Classe e Istituto: 2° CIT, Istituto Tecnico Informatico</p>
-    <p>Data di Nascita: 21 Novembre 2009</p>
-    <p>Luogo di Residenza: Moncalieri (TO)</p>
+    <p><Data di nascita:16 marzo 1789></p>
+    <p> Erlangen, Baviera, Germania</p>
+    <p>Data di morte: 6 luglio 1854</p>
+    <p>Luogo di morte: Monaco di Baviera, Germania</p>
+    <p>Nazionalità: Tedesca</p>
+    <p>Professione: Fisico e matematico</p>
+    <P>Contributi principali: Legge di Ohm, teoria dell'elettricità, ricerca sulla conduttività elettrica</P>
+    <p>Ambito di interesse: Elettricità, resistenza elettrica</p>
+    <h2>BIOGRAFIA</h2>
+    <p>Georg Simon Ohm fu un fisico e matematico tedesco noto per aver formulato la legge che porta il suo nome, la legge di Ohm, che descrive la relazione tra la tensione (V), la corrente (I) e la resistenza (R) in un circuito elettrico:
+        V = I × R
+        La legge di Ohm è fondamentale per la comprensione dei circuiti elettrici e costituisce la base per molti sviluppi successivi nella teoria dell'elettricità.
+        
+        Ohm studiò a lungo le proprietà dei conduttori elettrici, scoprendo che la resistenza di un materiale dipende dalla sua natura e dalle sue dimensioni. Nonostante la sua grande intuizione, inizialmente le sue idee furono accolte con scetticismo dalla comunità scientifica. Solo successivamente il suo lavoro venne pienamente riconosciuto.</p>
 
-    <h2>Chi sono</h2>
-    <p>Sono cresciuto a Moncalieri, una città ricca di storia e cultura. Una mia qualità distintiva è la curiosità: mi piace esplorare nuovi argomenti e scoprire il mondo intorno a me.</p>
-
-    <h2>I miei interessi</h2>
+    <h2>Carriera e studi:</h2>
     <ul>
-        <li>Informatica: Mi sono appassionato all'informatica attraverso corsi scolastici.</li>
-        <li>Sport: Pratico judo, che mi insegna disciplina e rispetto. Sono 2° in Italia grazie alla mia squadra di judo.</li>
-        <li>Hobby: Faccio motocross nel tempo libero, un'attività che adoro per l'adrenalina e la sfida.</li>
+        <li>Scuola di Erlangen: Ohm frequentò la scuola a Erlangen, dove sviluppò un interesse per la matematica e la fisica.</li>
+        <li>Università di Erlangen: Dopo la scuola, Ohm studiò brevemente all'Università di Erlangen, ma a causa di difficoltà economiche non poté proseguire formalmente gli studi accademici. Decise quindi di dedicarsi all'auto-apprendimento e alla ricerca scientifica in maniera indipendente.</li>
+        <li>Carriera didattica: Lavorò come insegnante di matematica e fisica in diverse scuole tecniche, tra cui quella di Norimberga, dove ebbe modo di sviluppare le sue teorie.</li>
+        <li>La sua principale pubblicazione, Die galvanische Kette, mathematisch bearbeitet (1827), in cui presentò la legge che ora porta il suo nome, non ottenne subito successo, ma divenne una delle pietre miliari nella storia della fisica e dell'ingegneria elettrica.</li>
     </ul>
 
-    <h2>Competenze</h2>
-    <ul>
-        <li>Abilità informatiche: Ho imparato a programmare attraverso corsi scolastici.</li>
-        <li>Lingue: Parlo italiano e sto studiando inglese.</li>
-        <li>Leadership: Ho fatto da capitano nella mia squadra di judo.</li>
-    </ul>
+   
+    <h2>Citazione </h2>
 
-    <h2>Obiettivi</h2>
-    <p>A breve termine, voglio migliorare nella programmazione. A lungo termine, sogno di lavorare nel campo della tecnologia.</p>
-
-    <h2>Citazione ispiratrice</h2>
-
-        "La vera scoperta non consiste nel cercare nuove terre, ma nell'avere nuovi occhi." - Marcel Proust
+    "La scienza è come un seme che, se ben coltivato, darà frutti abbondanti."
 </br>
     <h2>
-to Visivo</h2>
-    <img src="biografia ohm.jfif" alt="Foto in classe" width="300" height="300">
+foto Visiva</h2>
+    <img src="biografia ohm.jpg" alt="Foto in classe" width="300" height="300">
 </body>
 </html>
